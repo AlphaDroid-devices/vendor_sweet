@@ -151,7 +151,6 @@ PRODUCT_PACKAGES += \
     libadreno_utils \
     libadsp_default_listener \
     libadsprpc \
-    libc2d30_bltlib \
     libcdsp_default_listener \
     libdiag \
     libdsutils \
@@ -204,6 +203,7 @@ PRODUCT_PACKAGES += \
     libadpcmdec \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
+    libc2d30_bltlib \
     libdsd2pcm \
     libqcodec2 \
     librice \
